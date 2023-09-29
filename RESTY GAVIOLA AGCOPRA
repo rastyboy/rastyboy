@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 36px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RESTY GAVIOLA AGCOPRA</h1>
+        <p>Welcome to my personal website</p>
+    </header>
+    
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            I am a graduate of Agribusiness management based in Valencia city, Bukidnon, Philippines, passionate about Agriculture and any industry.
+I am dedicated to to be successful in life and constantly seek ways to to achieve it. When I'm not working, you can find me at Purok 2A lower sugod, valencia city, bukidnon.
+I am excited to share my knowledge and experiences with you through this platform. Please feel free to reach out if you have any questions or if there's anything specific you'd like to learn or discuss.
+
+            Thank you for visiting my WebsitePlatform!.
+        </p>
+        
+        <h2>Portfolio</h2>
+        <p>
+            Had an experioence on pharmaceutical industries.
+        </p>
+        
+        <h2>Contact</h2>
+        <p>
+            You can reach me at <a href="mailto:gmail.com">restyagcopra@gmail.com</a>. <br>
+            Connect with me on <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/resty-agcopra-363808248/</a> and <a href="https://twitter.com/yourtwitter">https://twitter.com/RestyAgcopra</a>.
+        </p>
+    </div>
+</body>
+</html>
